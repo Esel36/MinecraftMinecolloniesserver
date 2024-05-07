@@ -784,6 +784,10 @@ hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/awesome-dungeon-edition-ocean-forge.pw.toml"
 hash = "e0d521cf1a52a23ed3363a4ef21aa10fadcec575d7ef5003847d7b62e0159f2c"
 metafile = true
@@ -944,6 +948,10 @@ hash = "593d4922a9266db35cce5bf6da43778a70e951f19b6140c6a1e0cd171780ef9c"
 metafile = true
 
 [[files]]
+file = "mods/devices-mod.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "92e7c209d5ed32174844e106e473397f393efb4949fa38d7475601c1135bd0f9"
 metafile = true
@@ -976,6 +984,10 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
+metafile = true
+
+[[files]]
+file = "mods/eureka-ships.pw.toml"
 metafile = true
 
 [[files]]
@@ -1079,6 +1091,10 @@ hash = "3979b82d5760d5a21e6bfecc9de4d49163880ae335e24b8de3fbd1c398617c4a"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/l2library.pw.toml"
 hash = "279663dc05643e5344f05a62f8b1f2b910cd4a557c4d01a8131905c5b6ebadee"
 metafile = true
@@ -1139,8 +1155,16 @@ hash = "621f1001c3ea9b962367497181fab21eb0cc64bb8ea0b79e504d85775439f659"
 metafile = true
 
 [[files]]
+file = "mods/more-player-models.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
 metafile = true
 
 [[files]]
@@ -1234,6 +1258,10 @@ hash = "f0fd4a5a1040a5d4fc9b936aff5ad198b6de202a3856a69ca31f691803fb75ac"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/shutdowner.pw.toml"
 hash = "651f619cf0d12a988abe85cbdff3a972a04c8991324430ddbc50f3297c5882bb"
 metafile = true
@@ -1241,6 +1269,10 @@ metafile = true
 [[files]]
 file = "mods/simple-planes.pw.toml"
 hash = "2b5abf66011d73a561205f40915b0497372078a33c6a69233b3d6823f0ad86d1"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
 metafile = true
 
 [[files]]
@@ -1331,6 +1363,10 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "395d7d1bd13034e990f57ef742ff0d570197d999bd0cd6ffee438a0f1c2aaf27"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
 metafile = true
 
 [[files]]
