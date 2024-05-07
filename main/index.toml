@@ -788,6 +788,10 @@ file = "mods/applied-energistics-2.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/awesome-dungeon-edition-ocean-forge.pw.toml"
 hash = "e0d521cf1a52a23ed3363a4ef21aa10fadcec575d7ef5003847d7b62e0159f2c"
 metafile = true
